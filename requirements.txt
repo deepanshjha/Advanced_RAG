@@ -1,0 +1,11 @@
+llama-index
+pypdf
+langchain-community
+huggingface_hub
+cassio
+langchain
+cassandra-driver
+tiktoken==0.4.0
+flask
+python-dotenv
+ctransformers
